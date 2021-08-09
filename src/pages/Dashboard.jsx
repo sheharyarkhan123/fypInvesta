@@ -101,7 +101,7 @@ function Dashboard () {
       <ThemeProvider theme={theme}>
         <Header />
 
-        <Container maxWidth='lg' style={{ marginTop: '8%' }}>
+        <Container maxWidth='lg' style={{ marginTop: '12%' }}>
           <Grid container spacing={3}>
             <Grid item xs={12} sm={6}>
               <Typography
@@ -109,7 +109,7 @@ function Dashboard () {
                 align='left'
                 style={{ color: '#333333' }}
               >
-                <b>Your Projects</b>
+                <b>Your Project </b>
               </Typography>
             </Grid>
             {userData.accountType === 'invester' ? (

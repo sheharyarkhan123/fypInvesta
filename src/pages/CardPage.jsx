@@ -46,7 +46,7 @@ const useStyles = makeStyles(theme => ({
 const theme = createTheme({
   palette: {
     primary: {
-      main: '#02A95C'
+      main: '#000A52'
     }
   }
 })
@@ -114,7 +114,7 @@ function CardPage () {
                 style={{ paddingTop: 20, marginBottom: 20, fontSize: 17 }}
               >
                 {' '}
-                Created on
+                Created on 9th August 2021
               </Typography>
               <Divider></Divider>
               <Typography

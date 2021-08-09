@@ -63,14 +63,14 @@ const HeroSection = () => {
                 align='left'
                 style={{ paddingLeft: '5%', marginTop: -70 }}
               >
-                <b>Fundraising for the people and</b>
+                <b>Pakistan's first investment and </b>
               </Typography>
               <Typography
                 variant='h1'
                 align='left'
                 style={{ paddingLeft: '5%' }}
               >
-                <b>causes you care about</b>
+                <b>startups collaboration platform.</b>
               </Typography>
               <Typography
                 variant='h6'
@@ -78,7 +78,7 @@ const HeroSection = () => {
                 align='left'
                 style={{ paddingLeft: '5%', color: '#767676', fontSize: 25 }}
               >
-                <p>Get Started Today.</p>
+                <p>Pitch Your Startup Today.</p>
               </Typography>
               <Grid xs={12} sm={3}>
               <Link to='/signup'>

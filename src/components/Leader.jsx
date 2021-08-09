@@ -53,10 +53,10 @@ function Leader() {
                                 <CardContent>
 
                                     <Typography gutterBottom variant="h3" component="h2" align="left" style={{ fontSize: 17, color: '#333333', padding: 20 }}><LanguageIcon color='primary' fontSize='large' style={{ fontSize: 40, marginBottom: -13, marginRight: 15 }}></LanguageIcon>
-                                        <b>Worldwide leader</b>
+                                        <b>Pakistan's leaders</b>
                                     </Typography>
                                     <Typography variant="body2" color="textSecondary" component="p" align="left" style={{ marginLeft: 75, fontSize: 17 }}>
-                                        Investa is trusted around the world for its simple, reliable fundraising platform.</Typography>
+                                        Investa is trusted in the Pakistan for its simple, reliable fundraising and investment platform.</Typography>
                                 </CardContent>
 
                             </Card>
@@ -111,10 +111,10 @@ function Leader() {
                             <CardContent>
 
                                 <Typography gutterBottom variant="h3" component="h2" align="left" style={{ fontSize: 17, color: '#333333', padding: 20 }}><MobileFriendlyIcon color='primary' fontSize='large' style={{ fontSize: 40, marginBottom: -13, marginRight: 15 }}></MobileFriendlyIcon>
-                                    <b>Mobile app</b>
+                                    <b>Windows and MacOs</b>
                                 </Typography>
                                 <Typography variant="body2" color="textSecondary" component="p" align="left" style={{ marginLeft: 75, fontSize: 17 }}>
-                                    The Investa app makes it simple to launch and manage your fundraiser on the go.</Typography>
+                                    The Investa app makes it simple to launch and manage your startup and investment on multiple platforms.</Typography>
                             </CardContent>
 
                         </Card>

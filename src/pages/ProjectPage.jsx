@@ -151,7 +151,7 @@ function ProjectPage () {
                   }}
                   variant='contained'
                 >
-                  <b>Share</b>{' '}
+                  <b>Archive</b>{' '}
                 </Button>
                 <Button
                   className={classes.button}
@@ -161,12 +161,12 @@ function ProjectPage () {
                     padding: 10,
                     marginTop: 30,
                     marginBottom: '12%',
-                    backgroundColor: '#fdb72f'
+                    backgroundColor: '#EF5350'
                   }}
                   onClick={handleCloseStartup}
                 >
                   {' '}
-                  <b>Close fundraiser</b>{' '}
+                  <b>Close Your Project</b>{' '}
                 </Button>
               </Paper>
             </Grid>

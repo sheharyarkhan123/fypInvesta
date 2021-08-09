@@ -52,7 +52,7 @@ const useStyles = makeStyles(theme => ({
     textTransform: 'none',
     fontSize: 18,
     color: 'white',
-    backgroundColor: '#02A95C'
+    backgroundColor: '#000A52'
   }
 }))
 

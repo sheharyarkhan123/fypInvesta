@@ -149,7 +149,7 @@ function CreateStartUp () {
       <Typography
         align='center'
         variant='h4'
-        style={{ marginTop: 120, color: 'steelblue' }}
+        style={{ marginTop: 120, color: '#000A52' }}
       >
         <b>Raising Funds for a Startup</b>
       </Typography>
@@ -350,7 +350,7 @@ function CreateStartUp () {
                   fontSize='large'
                   style={{ marginBottom: -10, marginRight: 10 }}
                 ></AccountCircleIcon>{' '}
-                Tips from Jocelyn our fundraising expert
+                Tips from Uzair our fundraising expert
               </Typography>
               <Divider />
 
@@ -419,7 +419,7 @@ function CreateStartUp () {
                   color='primary'
                   style={{ marginBottom: -5 }}
                 ></CheckCircleOutlineIcon>{' '}
-                Share how grateful you will be for help
+                Share how grateful you will be for your investment
               </Typography>
             </Paper>
           </Grid>
