@@ -120,7 +120,10 @@ function Signin (props) {
         .signInWithEmailAndPassword(values.email, values.password)
         .then(() => props.getAuthState())
         .then(() => history.push('/loading'))
-        .catch(e => console.log(e))
+        .catch(e => {
+          alert(e)
+          setLoading(false)
+        })
     }
   })
 
